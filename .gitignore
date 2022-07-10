@@ -1,9 +1,14 @@
 #custom setting
 
 .vscode/
+*.plist
+*.code-workspace
+marp-themes/
+test-slide.md
 
 # Prerequisites
 *.d
+
 
 # Compiled Object files
 *.slo
