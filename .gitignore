@@ -5,6 +5,7 @@
 *.code-workspace
 marp-themes/
 test-slide.md
+memo*.md
 
 # Prerequisites
 *.d
